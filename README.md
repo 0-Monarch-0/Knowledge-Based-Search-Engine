@@ -67,3 +67,6 @@ This project would not be possible without the incredible work of the open-sourc
 * **Hugging Face** for the `transformers` library and model hosting.
 * **LangChain** for simplifying the development of LLM applications.
 * **Streamlit** for making it easy to build beautiful data apps.
+
+## Note
+first run the model in a kaggle notebook and then access the website throught the link it provides.
