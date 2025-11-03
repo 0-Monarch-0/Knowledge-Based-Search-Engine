@@ -1,12 +1,11 @@
 streamlit
-pyngrok
-PyMuPDF
+pymupdf
 langchain
-langchain-community
 langchain-huggingface
-sentence-transformers
+langchain-community
 chromadb
 transformers
 torch
-accelerate
 bitsandbytes
+accelerate
+huggingface-hub
